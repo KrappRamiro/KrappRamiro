@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KrappRamiro/KrappRamiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python, C++, LaTeX, Javascript**
 
-- 📫 How to reach me **krappramiro.jpg@gmail.com**
+- 📫 How to reach me: **krappramiro.jpg@gmail.com**
 
-- ⚡ Fun fact **I like jokes and Linux**
+- ⚡ Fun fact: I love to tell bad puns. Sometimes, it's **puns**nishable
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
