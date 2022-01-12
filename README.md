@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python, C++, LaTeX, Javascript**
 
-- 📫 How to reach me: **krappramiro.jpg@gmail.com**
+- 📫 How to reach me: **krappramiro@disroot.org**
 
 - ⚡ Fun fact: I love to tell bad puns. Sometimes, it's **puns**nishable
 
