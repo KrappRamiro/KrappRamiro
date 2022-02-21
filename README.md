@@ -27,5 +27,5 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krappramiro&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="krappramiro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krappramiro&show_icons=true&theme=gruvbox&locale=en" alt="krappramiro" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=krappramiro&show_icons=true&theme=gruvbox&locale=en" alt="krappramiro" /></p>
 
