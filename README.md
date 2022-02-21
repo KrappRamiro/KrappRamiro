@@ -11,7 +11,9 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 📫 How to reach me **krappramiro@disroot.org**
 
+<!--
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing](https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing)
+-->
 
 - ⚡ Fun fact **I love Linux**
 
