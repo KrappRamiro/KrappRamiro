@@ -15,7 +15,7 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing](https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing)
 -->
 
-- ⚡ Fun fact **I love Linux**
+<!-- - ⚡ Fun fact **I love Linux** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
