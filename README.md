@@ -12,8 +12,17 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 	/>
 </p>
 
-- 🌱 I’m currently learning **Javascript** - 📫 How to reach me
-  **krappramiro@disroot.org**
+<h4>About Me</h4>
+I am an electronics and programming students. I love Linux, and i enjoy programming,
+because i enjoy designing things.
+<br>
+I speak both English and Spanish, and im thinking about learning Deustch.
+
+---
+
+- 📫 How to reach me: **krappramiro@disroot.org**
+
+---
 
 <!--
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing](https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing)
@@ -191,6 +200,8 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 		/>
 	</a>
 </p>
+
+---
 
 <!-- Aca van las stats -->
 
