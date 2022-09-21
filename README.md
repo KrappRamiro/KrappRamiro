@@ -13,22 +13,20 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 </p>
 
 <h4>About Me</h4>
-I am an electronics and programming students. I love Linux, and i enjoy programming,
-because i enjoy designing things.
+I am an electronics and IT student.
 <br>
+Programming, Linux and computers in general are the joy of my life
+<br />
 I speak both English and Spanish, and im thinking about learning Deustch.
 
 ---
 
 - 📫 How to reach me: **krappramiro@disroot.org**
+ 
+
+- 📄 [My Curriculum Vitae (Click me, I'm a link to a pdf!)](https://drive.google.com/file/d/185BAPunYX7QazSNkDJN5cf_hZH7EiKE4/view?usp=sharing)
 
 ---
-
-<!--
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing](https://drive.google.com/file/d/1-5jCDN_mg5VtQmrMw3SmVm2z9DSPw69g/view?usp=sharing)
--->
-
-<!-- - ⚡ Fun fact **I love Linux** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,6 +55,8 @@ I speak both English and Spanish, and im thinking about learning Deustch.
 			width="40"
 	/></a>
 </p>
+
+---
 
 <!-- Aca van los iconitos de los lenguajes de programacion-->
 <h3 align="left">Languages and Tools:</h3>
@@ -111,6 +111,22 @@ I speak both English and Spanish, and im thinking about learning Deustch.
 			height="40"
 		/>
 	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+			alt="tailwind"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+			alt="bootstrap"
+			width="40"
+			height="40"
+		/>
+	</a>
 </p>
 
 <h4 align="left">Database Systems</h4>
@@ -127,6 +143,14 @@ I speak both English and Spanish, and im thinking about learning Deustch.
 		<img
 			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
 			alt="sqlite"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+			alt="postgresql"
 			width="40"
 			height="40"
 		/>
