@@ -3,7 +3,7 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 **KrappRamiro/KrappRamiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Krapp Ramiro</h1>
-<h3 align="center">A passionate learning developer from Argentina 🇦🇷</h3>
+<h3 align="center">A DevOps Engineer from Argentina 🇦🇷</h3>
 
 <p align="left">
 	<img
@@ -12,16 +12,9 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 	/>
 </p>
 
-<h4>About Me</h4>
-I am an electronics and IT student.
-<br>
-Programming, Linux and computers in general are the joy of my life
-<br />
-I speak both English and Spanish, and im thinking about learning Deustch.
-
 ---
 
-- 📫 How to reach me: **krappramiro@disroot.org**
+- 📫 How to reach me: **krappramiro.jpg@gmail.com**
  
 
 - 📄 [My Curriculum Vitae (Click me, I'm a link to a pdf!)](https://drive.google.com/file/d/185BAPunYX7QazSNkDJN5cf_hZH7EiKE4/view?usp=sharing)
