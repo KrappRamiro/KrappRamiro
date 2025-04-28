@@ -23,26 +23,22 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://linkedin.com/in/ramiro krapp" target="blank"
-		><img
+	<a href="https://linkedin.com/in/ramiro krapp" target="blank">
+		<img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="ramiro krapp"
 			height="30"
 			width="40"
-	/></a>
-	<a href="https://stackoverflow.com/users/15965186" target="blank"
-		><img
+		/>
+	</a>
+	<a href="https://stackoverflow.com/users/15965186" target="blank">
+		<img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
 			alt="15965186"
 			height="30"
 			width="40"
-	/></a>
-</p>
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=krappramiro&show_icons=true&theme=gruvbox&locale=en"
-		alt="krappramiro"
-	/>
+		/>
+	</a>
 </p>
