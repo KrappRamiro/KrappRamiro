@@ -17,7 +17,7 @@ made with: https://rahuldkjain.github.io/gh-profile-readme-generator/
 - 📫 How to reach me: **krappramiro.jpg@gmail.com**
  
 
-- 📄 [My Curriculum Vitae (Click me, I'm a link to a pdf!)](https://drive.google.com/file/d/185BAPunYX7QazSNkDJN5cf_hZH7EiKE4/view?usp=sharing)
+- 📄 [My Curriculum Vitae (Click me, I'm a link to a pdf!)](https://krappramiro.github.io/CV/krapp_ramiro_cv.pdf)
 
 ---
 
